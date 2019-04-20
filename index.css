@@ -1,0 +1,42 @@
+html,body{
+	height:100%;
+}
+
+.carousel,.carousel-item,.active{
+	height:100%;
+}
+
+.carousel-inner{
+	height:100%;
+}
+
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+	font-size: 30px;
+	text-align: center;
+	padding: 0;
+}
+
+.nav-link {
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	text-align: center;
+	padding: 0;
+}
+.w-100 {
+    width: 100%!important;
+}
+.d-block {
+    display: block!important;
+}
+.container {
+	height: 100%;
+	width: 100%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}

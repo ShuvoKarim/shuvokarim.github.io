@@ -1,0 +1,51 @@
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+	font-size: 30px;
+	text-align: center;
+	padding: 0;
+}
+
+.nav-link {
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	text-align: center;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    margin: 5px;
+    transition: all 1s; 
+}
+img:hover {
+	transform: scale(1.5);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+h2 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 38px; 
+	text-align: center;
+	margin-bottom: 70px;
+	margin-top: 30px;
+
+}
+
+span { 
+	background-color: white;
+	padding: 5px;
+	border-bottom: 3px solid #00FFFF;
+	border-right: 3px solid #00FFFF; 
+	box-shadow: 4px 4px 5px #888888;
+}
